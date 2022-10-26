@@ -1,0 +1,13 @@
+{
+    "name": "root/ghc_qr",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mariam",
+            "email": "ma.11235837@gmial.com"
+        }
+    ],
+    "require": {
+        "chillerlan/php-qrcode": "^4.3"
+    }
+}
